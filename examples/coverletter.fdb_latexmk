@@ -1,10 +1,10 @@
 # Fdb version 3
-["xdvipdfmx"] 1666201496 "cv.xdv" "cv.pdf" "cv" 1666201497
-  "cv.xdv" 1666201496 34056 1faa73ec5d32d9ab3b1d4bccdf44f198 "xelatex"
+["xdvipdfmx"] 1666273352 "coverletter.xdv" "coverletter.pdf" "coverletter" 1666273352
+  "coverletter.xdv" 1666273352 30632 f06f3ce2691660ec8428c11f46abb7c8 "xelatex"
   (generated)
-  "cv.pdf"
-["xelatex"] 1666201494 "/Users/kinetc/work/mercv/examples/cv.tex" "cv.xdv" "cv" 1666201497
-  "/Users/kinetc/work/mercv/examples/cv.tex" 1666201492 3576 6d3d02efef968b8ab72c800a9f7db4a2 ""
+  "coverletter.pdf"
+["xelatex"] 1666273350 "/Users/kinetc/work/mercv/examples/coverletter.tex" "coverletter.xdv" "coverletter" 1666273352
+  "/Users/kinetc/work/mercv/examples/coverletter.tex" 1666273350 6297 ce338198174e4efec9d105fc9ab75f67 ""
   "/usr/local/texlive/2021/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2021/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm" 1136768653 1528 f853c4d1b4e0550255e02831fdc8496f ""
   "/usr/local/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmmi10.tfm" 1136768653 1528 abec98dbc43e172678c11b3b9031252a ""
@@ -175,14 +175,9 @@
   "/usr/local/texlive/2021/texmf-var/web2c/xetex/xelatex.fmt" 1647249277 5093961 7ff6c8d0b0d151f7af475b4cfa0f3ac9 ""
   "/usr/local/texlive/2021/texmf.cnf" 1616695596 577 4c1911a7228e554c6032256d3cf5567d ""
   "awesome-cv.cls" 1666200927 29857 03695ec7f8621c7b8020cd4bbcc828c1 ""
-  "cv.aux" 1666201496 596 c88ae3f6d8f558768c3bef4aa44ed6e7 "xelatex"
-  "cv.tex" 1666201492 3576 6d3d02efef968b8ab72c800a9f7db4a2 ""
-  "cv/education.tex" 1666200009 1267 5b2a92aaa74d25892782ea59cde61af9 ""
-  "cv/experience.tex" 1666200200 2039 8d685e605206649089450a6614bf5f7c ""
-  "cv/extracurricular.tex" 1666200380 895 5ce9e9231a1b5ccd790a32e4427c6bc5 ""
-  "cv/skills.tex" 1666201449 1047 4013c3a456376d1c518051834e5c014b ""
-  "cv/writing.tex" 1666200941 1708 f7f048611376a9bdec5517c23b5feb38 ""
+  "coverletter.aux" 1666273352 596 c88ae3f6d8f558768c3bef4aa44ed6e7 "xelatex"
+  "coverletter.tex" 1666273350 6297 ce338198174e4efec9d105fc9ab75f67 ""
   (generated)
-  "cv.log"
-  "cv.xdv"
-  "cv.aux"
+  "coverletter.aux"
+  "coverletter.log"
+  "coverletter.xdv"
