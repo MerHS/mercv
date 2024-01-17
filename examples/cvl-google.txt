@@ -1,0 +1,15 @@
+Dear Google Recruiting team,
+  
+I am excited that Google has opened up an internship. I would like an opportunity to handle and optimize real-world large-scale model with Google's advanced infrastructure.
+
+I am pursuing a Doctoral degree in Computer Science and Engineering at Seoul National University. My current interest is implementing an ML framework or compiler which is easy to use and, at the same time, ensures high throughput. With professor Nuno P. Lopes and Chung-Kil Hur, I have investigated distributed processing and parallelization frameworks for ML models such as Alpa and DeepSpeed. My current goal is to automatically find the optimal parallelization route of a given model with minimal user-defined settings.
+
+My work has focused so far in the analysis of ML models, usually computer vision models. I experienced and analyzed the whole process of constructing an ML model, including data pre-processing, training, and deployment. The implementation of each model uses PyTorch, TypeScript, and MLIR, which were the bleeding-edge technologies that didn't have much documentation at the time of the writing. My work would support understanding and optimizing the models from Google.
+
+Additionally, I have full-time and internship working experience in several fields, from a startup company to the IT department of a national agency. Most recently, I participated in ML compiler optimization that reduces memory usage from the startup manufacturing DL accelerator. Also, I made a full-stack web app and mobile app based on Java and Scala from the Korean Air Force. I've also worked at a mobile game company, where I was in charge of the core part of the game system and collaborated with colleagues with diverse backgrounds. These experiences prove that I adapt to various companies and teams quickly and well.
+
+I believe my experiences and skills would be a great help for the opportunity. Thank you for your consideration, and I'm looking forward to joining the Google team.
+
+Sincerely,
+
+Ho Young Jhoo
